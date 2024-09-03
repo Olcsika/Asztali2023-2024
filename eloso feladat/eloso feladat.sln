@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eloso feladat", "eloso feladat\eloso feladat.csproj", "{037D64FB-64CF-410C-A63B-E129F626F017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037D64FB-64CF-410C-A63B-E129F626F017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037D64FB-64CF-410C-A63B-E129F626F017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037D64FB-64CF-410C-A63B-E129F626F017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037D64FB-64CF-410C-A63B-E129F626F017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09A5389-1050-4941-83C2-A0DFC04017F6}
+	EndGlobalSection
+EndGlobal

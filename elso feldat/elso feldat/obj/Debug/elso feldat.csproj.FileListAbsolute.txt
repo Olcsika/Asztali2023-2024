@@ -1,0 +1,7 @@
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\bin\Debug\elso feldat.exe.config
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\bin\Debug\elso feldat.exe
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\bin\Debug\elso feldat.pdb
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\obj\Debug\elso feldat.csproj.AssemblyReference.cache
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\obj\Debug\elso feldat.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\obj\Debug\elso feldat.exe
+D:\munkakönyvtár\Asztali2023-2024\elso feldat\elso feldat\obj\Debug\elso feldat.pdb
