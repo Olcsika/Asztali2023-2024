@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\bin\Debug\net8.0\nevek 100 ig.exe
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\bin\Debug\net8.0\nevek 100 ig.deps.json
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\bin\Debug\net8.0\nevek 100 ig.runtimeconfig.json
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\bin\Debug\net8.0\nevek 100 ig.dll
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\bin\Debug\net8.0\nevek 100 ig.pdb
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.AssemblyInfo.cs
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.sourcelink.json
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.dll
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\refint\nevek 100 ig.dll
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.pdb
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\nevek 100 ig.genruntimeconfig.cache
+D:\munkakönyvtár\Asztali2023-2024\nevek 100 ig\nevek 100 ig\obj\Debug\net8.0\ref\nevek 100 ig.dll
