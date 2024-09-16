@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E2AC29-56D9-439F-AAC8-FEB241D9F5DC}|p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E2AC29-56D9-439F-AAC8-FEB241D9F5DC}|p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc.csproj|solutionrelative:p\u00E1ros p\u00E1ratlan cucc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E2AC29-56D9-439F-AAC8-FEB241D9F5DC}|p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc.csproj|d:\\munkak\u00F6nyvt\u00E1r\\l\u00E9b\u00E1r oliv\u00E9r\\asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E2AC29-56D9-439F-AAC8-FEB241D9F5DC}|p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc.csproj|solutionrelative:p\u00E1ros p\u00E1ratlan cucc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\Class1.cs",
+              "RelativeDocumentMoniker": "p\u00E1ros p\u00E1ratlan cucc\\Class1.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\Class1.cs",
+              "RelativeToolTip": "p\u00E1ros p\u00E1ratlan cucc\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:57:34.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\Program.cs",
+              "RelativeDocumentMoniker": "p\u00E1ros p\u00E1ratlan cucc\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\L\u00E9b\u00E1r Oliv\u00E9r\\Asztali2023-2024\\p\u00E1ros p\u00E1ratlan cucc\\p\u00E1ros p\u00E1ratlan cucc\\Program.cs",
+              "RelativeToolTip": "p\u00E1ros p\u00E1ratlan cucc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:48:06.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
